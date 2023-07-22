@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sayan</h1>
+<p align="center">
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif" alt="neme-sis" width="300" align="center" />
+</p>
+<h1 align="center">Hi 👋, I'm Sayan Ghosh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neme-sis&label=Views&color=0e56b4&style=flat-square" alt="neme-sis" /> </p>
 
 - 🔭 I’m currently working on **Awesomesuite**
