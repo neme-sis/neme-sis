@@ -14,6 +14,10 @@
 
 - ⚡ Fun fact **I am lazy when I am not coding**
 
+<p align="center">
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif" alt="neme-sis" width="300" align="center" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sayan-ghosh-00b7b2220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-ghosh-00b7b2220" height="30" width="40" /></a>
@@ -21,10 +25,6 @@
 <a href="https://www.hackerrank.com/livetocode02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="livetocode02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/livetocode02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="livetocode02" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ghoshsayan894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ghoshsayan894" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif" alt="neme-sis" width="300" align="center" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
